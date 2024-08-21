@@ -1,0 +1,14 @@
+.navBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 50px;
+}
+.navBar a{
+    text-decoration: none;
+    color: white;
+    padding-right: 50px;
+    font-size: 17px;
+}
+
